@@ -1,0 +1,31 @@
+Inputkatze
+==========
+
+A device to capture HDMI input(s) at conferences, rescale, switch inputs, pack
+things over to SDI-3G and allow remote control.
+
+Interfaces
+----------
+
+ - 2x HDMI in (1.2?)
+ - 2x HDMI in via RPi Compute Module slot
+ - 2x SDI out (3G-SDI)
+ - 3.5mm stereo audio in
+ - 2x balanced XLR stereo audio out
+ - 1x USB2.0 via RPi Compute Module slot
+ - 1x 1GBase-T Ethernet (connected to RPi Compute via USB Network adapter)
+
+
+Functionality
+-------------
+
+Real-time acquisition from one HDMI input, bicubic rescaling to 1080p24, output via
+SDI.
+
+Non-real-time acquisition from other HDMI inputs, nearest-neighbor rescaling to
+thumbnail, output via USB (to RPi).
+
+Input of audio from HDMI, analog streo. Output of audio via SDI
+
+Controllable EDID and HDMI / audio switching via RPi/USB.
+
