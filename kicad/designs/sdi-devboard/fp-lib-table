@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name Package_DFN_QFN)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Package_DFN_QFN.pretty)(options "")(descr ""))
+  (lib (name Package_TO_SOT_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Package_TO_SOT_SMD.pretty)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/MountingHole.pretty)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name LED_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/LED_SMD.pretty)(options "")(descr ""))
+  (lib (name Inductor_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Inductor_SMD.pretty)(options "")(descr ""))
+  (lib (name Capacitor_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Capacitor_SMD.pretty)(options "")(descr ""))
+  (lib (name Capacitor_Tantalum_SMD)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Capacitor_Tantalum_SMD.pretty)(options "")(descr ""))
+  (lib (name Connector_Coaxial)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Connector_Coaxial.pretty)(options "")(descr ""))
+  (lib (name Connector)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/footprints/Connector.pretty)(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri /home/q3k/Projects/inputkatze/kicad/local.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Device)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/symbols/Device.lib)(options "")(descr ""))
+  (lib (name local)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/local.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/symbols/Connector.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/symbols/power.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/symbols/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name Mechanical)(type Legacy)(uri /home/q3k/Projects/inputkatze/kicad/symbols/Mechanical.lib)(options "")(descr ""))
+)
