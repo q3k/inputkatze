@@ -253,7 +253,7 @@ Text Notes 7400 7500 0    50   ~ 0
 Text Notes 7000 7100 0    50   ~ 0
 Copyright 2018 Low Latency Consulting, Ltd.\nCC0 1.0 Universal
 Text Notes 10600 7650 0    50   ~ 0
-a, WIP
+a
 Text Notes 8150 7650 0    50   ~ 0
 2018/11/12
 $Comp
